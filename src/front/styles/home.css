@@ -1,0 +1,16 @@
+
+.inline-image {
+    height: 15px; 
+    vertical-align: middle;
+  }
+.button {
+    color: rgb(11, 140, 239);
+    background-color: rgb(19, 210, 220); 
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: rgb(9, 37, 98) 
+}
+.frontimage {
+    width: 50%;
+    height: 50%;
+}
